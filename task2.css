@@ -1,0 +1,9 @@
+/*
+.focused {
+    outline: solid 2px red;
+}
+*/
+
+.task2 input[type="text"]:focus {
+    outline: solid 2px red;
+}
